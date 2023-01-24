@@ -10,8 +10,16 @@ takashimura-store.com is the official site for top up games and game vouchers wi
 
 [![](https://skillicons.dev/icons?i=git,github,vscode,figma,html,css,javascript)]()
 
-# UI/UX 🎨
+# UI/UX Takashimura Store 🎨
+
+## Miro
 
 Link Miro <https://miro.com/app/board/uXjVPv_OD4Y=/>
 
+### Screenshoot miro
+
+## Figma
+
 Link figma <https://www.figma.com/file/YIMEomednmcWUnLkjDLe2x/Takashimura-store?node-id=6%3A15&t=Gki5nT3XsDaJGnCF-0/>
+
+### Screenshoot figma
