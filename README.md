@@ -20,16 +20,24 @@ Link Miro <https://miro.com/app/board/uXjVPv_OD4Y=/>
 
 ### Screenshoot miro
 
+|             **Homepage**              |                       **Cek Invoice**                       |                     **Invoice**                     |
+| :-----------------------------------: | :---------------------------------------------------------: | :-------------------------------------------------: |
+| ![Home](/assets/miro-mockup/home.png) | ![cek invoice](/assets/miro-mockup/halaman-cek-invoice.png) | ![invoice](/assets/miro-mockup/halaman-invoice.png) |
+
+|                        **Detail Produk**                        |                      **Konfirmasi Pesanan**                       |                    **Thanks**                     |
+| :-------------------------------------------------------------: | :---------------------------------------------------------------: | :-----------------------------------------------: |
+| ![detail produk](/assets/miro-mockup/halaman-detail-produk.png) | ![konfirmasi pesanan](/assets/miro-mockup/halaman-konfirmasi.png) | ![thanks](/assets/miro-mockup/halaman-thanks.png) |
+
 ## Figma
 
 Link figma <https://www.figma.com/file/YIMEomednmcWUnLkjDLe2x/Takashimura-store?node-id=6%3A15&t=Gki5nT3XsDaJGnCF-0/>
 
 ### Screenshoot figma
 
-|                     **Homepage**                      |                           **Cek Invoice**                           |                         **Invoice**                         |
-| :---------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------: |
-| ![Home](/assets/takashimura%20store/halaman-home.png) | ![cek invoice](/assets/takashimura%20store/halaman-cek-invoice.png) | ![invoice](/assets/takashimura%20store/halaman-invoice.png) |
+|                  **Homepage**                  |                       **Cek Invoice**                        |                     **Invoice**                      |
+| :--------------------------------------------: | :----------------------------------------------------------: | :--------------------------------------------------: |
+| ![Home](/assets/figma-mockup/halaman-home.png) | ![cek invoice](/assets/figma-mockup/halaman-cek-invoice.png) | ![invoice](/assets/figma-mockup/halaman-invoice.png) |
 
-|                            **Detail Produk**                            |                          **Konfirmasi Pesanan**                           |                        **Thanks**                         |
-| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------: |
-| ![detail produk](/assets/takashimura%20store/halaman-detail-produk.png) | ![konfirmasi pesanan](/assets/takashimura%20store/halaman-konfirmasi.png) | ![thanks](/assets/takashimura%20store/halaman-thanks.png) |
+|                        **Detail Produk**                         |                       **Konfirmasi Pesanan**                       |                     **Thanks**                     |
+| :--------------------------------------------------------------: | :----------------------------------------------------------------: | :------------------------------------------------: |
+| ![detail produk](/assets/figma-mockup/halaman-detail-produk.png) | ![konfirmasi pesanan](/assets/figma-mockup/halaman-konfirmasi.png) | ![thanks](/assets/figma-mockup/halaman-thanks.png) |
