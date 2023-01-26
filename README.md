@@ -16,7 +16,7 @@ takashimura-store.com is the official site for top up games and game vouchers wi
 
 ## Miro
 
-Link Miro <https://miro.com/app/board/uXjVPv_OD4Y=/>
+Link Miro <https://www.figma.com/proto/C1rx0qxdxNSPxQS4jLlADv/Takashimura-store?page-id=0%3A1&node-id=0%3A1&viewport=622%2C243%2C0.13&scaling=scale-down&starting-point-node-id=1%3A2/>
 
 ### Screenshoot miro
 
@@ -30,9 +30,9 @@ Link Miro <https://miro.com/app/board/uXjVPv_OD4Y=/>
 
 ## Figma
 
-Link figma : <https://www.figma.com/file/YIMEomednmcWUnLkjDLe2x/Takashimura-store?node-id=6%3A15&t=Gki5nT3XsDaJGnCF-0/>
+Link figma : <https://www.figma.com/file/C1rx0qxdxNSPxQS4jLlADv/Takashimura-store?node-id=0%3A1&t=F7zYUQ6qtJmWZKl2-1/>
 
-Link prototype figma / preview : <https://www.figma.com/proto/YIMEomednmcWUnLkjDLe2x/Takashimura-store?page-id=6%3A15&node-id=6%3A16&viewport=249%2C193%2C0.13&scaling=scale-down&starting-point-node-id=6%3A16>
+Link prototype figma / preview : <https://www.figma.com/proto/C1rx0qxdxNSPxQS4jLlADv/Takashimura-store?page-id=0%3A1&node-id=0%3A1&viewport=622%2C243%2C0.13&scaling=scale-down&starting-point-node-id=1%3A2/>
 
 ### Screenshoot figma
 
