@@ -4,7 +4,7 @@
 
 # Description
 
-![mockup](assets/mockup-1.jpg)
+![mockup](assets/mockup-1.png)
 
 takashimura-store.com is the official site for top up games and game vouchers with the cheapest, fastest, and most reliable prices. Buy Diamond Mobile Legends ML, Free Fire FF DM, Ragnarok X / M BCC, Higgs Domino Chips MD, Genshin Impact Blessing/Crystals, Call of Duty CODM, PUBG UC, Garena Shells, Steam and many more
 
