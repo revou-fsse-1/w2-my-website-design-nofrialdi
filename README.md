@@ -25,3 +25,11 @@ Link Miro <https://miro.com/app/board/uXjVPv_OD4Y=/>
 Link figma <https://www.figma.com/file/YIMEomednmcWUnLkjDLe2x/Takashimura-store?node-id=6%3A15&t=Gki5nT3XsDaJGnCF-0/>
 
 ### Screenshoot figma
+
+|                     **Homepage**                      |                           **Cek Invoice**                           |                         **Invoice**                         |
+| :---------------------------------------------------: | :-----------------------------------------------------------------: | :---------------------------------------------------------: |
+| ![Home](/assets/takashimura%20store/halaman-home.png) | ![cek invoice](/assets/takashimura%20store/halaman-cek-invoice.png) | ![invoice](/assets/takashimura%20store/halaman-invoice.png) |
+
+|                            **Detail Produk**                            |                          **Konfirmasi Pesanan**                           |                        **Thanks**                         |
+| :---------------------------------------------------------------------: | :-----------------------------------------------------------------------: | :-------------------------------------------------------: |
+| ![detail produk](/assets/takashimura%20store/halaman-detail-produk.png) | ![konfirmasi pesanan](/assets/takashimura%20store/halaman-konfirmasi.png) | ![thanks](/assets/takashimura%20store/halaman-thanks.png) |
